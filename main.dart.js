@@ -55648,7 +55648,7 @@ $C:"$2",
 $R:2,
 $S:357}
 F.A5.prototype={
-T:function(a,b){return new S.qV(new Y.ra("Posti vaccinazioni ULSS3 Veneto",null),"Flutter Demo",X.aaC(null,new P.H(4279131026)),null)}}
+T:function(a,b){return new S.qV(new Y.ra("Posti vaccinazioni ULSS3 Veneto",null),"ULSS3 Vaccini",X.aaC(null,new P.H(4279131026)),null)}}
 A.a3T.prototype={
 $2:function(a,b){var s=a+J.b4(b)&536870911
 s=s+((s&524287)<<10)&536870911
