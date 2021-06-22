@@ -1,6 +1,6 @@
 {
-    "name": "vaccini",
-    "short_name": "vaccini",
+    "name": "archibugio",
+    "short_name": "archibugio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
